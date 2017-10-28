@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  text-align: center;
+  padding-bottom: 60px;
+  padding-top: 10px;
+}
+
+.Title {
+  font-family: "halyard-display";
+  margin-bottom: 2rem;
+  font-size: 3rem;
+  transform: rotate(2deg);
+  color: #f75529;
+}
+
+.Heading {
+  font-family: "halyard-display";
+  margin-bottom: 2rem;
+  transform: rotate(-1deg);
+  color: #288ddf;
+}
+
+.Balance {
+  font-family: "halyard-display";
+  margin-bottom: 2rem;
+  transform: rotate(1deg);
+  color: #bf27d9;
+  font-size: 4rem;
+  font-weight: 700;
+}
+
+.Input {
+  font-size: 2rem;
+  padding: 0.3rem;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 400px;
+}
+
+.Button {
+  font-size: 2rem;
+  display: block;
+  margin: 0 auto;
+}

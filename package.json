@@ -1,0 +1,29 @@
+{
+  "name": "interactive-account-balance-simulator",
+  "version": "0.1.0",
+  "description": "Our interactive kit starter for preact",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ik": "interactive-kit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theprateinteractives/interactive-account-balance-simulator.git"
+  },
+  "author": "James Canning <james@jamescanning.com> (http://brudil.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theprateinteractives/starter-preact/issues"
+  },
+  "homepage": "https://github.com/theprateinteractives/starter-preact#readme",
+  "dependencies": {
+    "@drafty/theme-the-drab": "^1.0.0",
+    "interactive-kit": "^1.3.2",
+    "linkstate": "^1.1.0",
+    "preact": "^8.2.1"
+  },
+  "interactive-kit": {
+    "jsx": "preact.h"
+  }
+}
